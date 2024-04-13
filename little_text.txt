@@ -1,0 +1,1 @@
+This is just a text to say i was able to push and commit using git know that this file is repushed wwithout following oor looking at the instruction for help

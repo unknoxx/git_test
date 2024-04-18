@@ -1,4 +1,4 @@
 # git_test
 
-Hello Odin this is line 3
-this is edited to refresh memory about committing
+Hello Odin.
+This is just a random message. Nothing here in particular, still reading? can't control your mind hmm? Don't worryt this is the end
